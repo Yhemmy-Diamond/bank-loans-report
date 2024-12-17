@@ -1,11 +1,17 @@
-# Bank Loan Performance Analysis
+# Bank Loan Performance Analysis for Financial Insights
 
 ![Dashboard](/assets/bl1.png) \
 ![Dashboard](/assets/bl2.png) 
 ### Project Description
-The project involves developing an interactive dashboard to analyze the performance of bank loans. It provides insights into loan applications, funded amounts, and repayment statuses. The dashboard categorizes loans into “Good Loans” and “Bad Loans” based on repayment behavior and highlights key metrics such as the total funded amount, loan applications, and interest rates. It is designed to help management monitor loan health, detect trends, and improve decision-making.. \
-**Technology:** Microsoft Excel.
+The project involves developing an interactive dashboard to track, measure, and analyze loan operations. It provides insights into loan applications, funded amounts, and repayment statuses. The dashboard categorizes loans into “Good Loans” and “Bad Loans” based on repayment behavior and highlights key metrics such as the total funded amount, loan applications, and interest rates.\
 
+The objective is to assist financial institutions in making data-driven decisions, identifying growth opportunities, and improving loan management efficiency. The visualized data facilitates stakeholder understanding of loan performance trends over time and across borrower segments.
+
+### Technologies Used:
+- Excel: Data cleaning, analysis, and visualization.
+- Power Query: For data transformation and preparation.
+- Pivot Tables and Charts: To summarize key metrics dynamically.
+- Advanced Excel Formulas: For calculating KPIs like MoM growth, DTI, and averages.
 ### NORTH STAR METRIC
 Total Funded Amount Received: $473.1M.\
 This reflects the bank's ability to fund and receive returns on its loans, indicating financial health.
@@ -17,6 +23,10 @@ This reflects the bank's ability to fund and receive returns on its loans, indic
 - Total Funded Amount: $435.8M.
 - Interest Rates: Average interest rate per loan category (e.g., 11.6% for fully paid loans).
 - Debt-to-Income Ratio (DTI): Average DTI across loan types (e.g., 13.2% for fully paid loans).
+- Loan Applications by State
+- Loan Applications by Term
+- Loan Applications by Employment Length
+
 
 ### Summary of Insights
 The following are the insights gotten from the analysis: 
